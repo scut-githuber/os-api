@@ -1,0 +1,14 @@
+<function>
+<name>strcmp</name>
+<param>
+<elem name="str1" for="待比较的第一个字符串" type="char*"/>
+<elem name="str2" for="待比较的第二个字符串" type="char*"/>
+</param>
+<return type="int" for="是否相同，\n0代表相同，\n1代表不同"/>
+<usage>比较字符串</usage>
+<example>....</example>
+<relevant>
+<func>strcat</func>
+<func>strcat</func>
+</relevant>
+</function>
