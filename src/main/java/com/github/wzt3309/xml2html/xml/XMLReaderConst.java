@@ -18,7 +18,7 @@ public class XMLReaderConst {
 										+ "\t\t<link src=''></link>\n\t\t<script href=''></script>"
 										+ " \n\t</head>\n\t<body>\n";										
 	public static final String DEFAULT_HTML_END="\t</body>\n</html>";
-	public static final String DEFAULT_OUPUT_CHARSET="GBK";
+	public static final String DEFAULT_OUPUT_CHARSET="UTF-8";
 
 
 													
